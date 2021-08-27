@@ -19,6 +19,10 @@
   }
 }
 
+.App {
+  padding-bottom: 5vh;
+}
+
 .intro:hover {
   /*transform: rotateX(150deg);*/
   /*transform: rotatey(150deg);*/
